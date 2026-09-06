@@ -59,8 +59,3 @@ Java
 C
 MATLAB
 
-### Tools & Platforms
-CloudSim
-Linux / Ubuntu
-Windows
-Git / GitHub
