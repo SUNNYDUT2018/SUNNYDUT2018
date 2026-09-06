@@ -1,9 +1,6 @@
 # 👋 Hello, I'm A. B. M. Mazharul Mujib
 
 ### Senior IT Professional | Cloud Computing | Software Engineering | Project Management | IoT | Data & AI
-# 👋 Hello, I'm A. B. M. Mazharul Mujib
-
-### Senior IT Professional | Cloud Computing | Software Engineering | Project Management | IoT | Data & AI
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mazharul-mujib/">
@@ -61,3 +58,46 @@ Python
 Java
 C
 MATLAB
+
+Cloud Computing
+AI & Data Engineering
+Project Management
+Software Engineering
+IoT
+Digital Transformation
+IT Solutions
+Business & Technology
+
+
+## 3. Your GitHub should have these repositories
+
+Don't only make the profile README. **Create actual projects** so recruiters can see evidence of your skills.
+
+I recommend this structure:
+
+```text
+YOUR-GITHUB-USERNAME/
+│
+├── profile README
+│
+├── cloud-weather-forecasting
+│
+├── accounting-management-system
+│
+├── iot-security-system
+│
+├── data-mining-projects
+│
+├── python-data-analysis
+│
+├── cloud-computing-labs
+│
+└── project-management-portfolio
+
+<p align="left">
+
+<a href="mailto:mazharul.mujib@gmail.com"> <img src="https://img.shields.io/badge/Email-mazharul.mujib%40gmail.com-red?style=for-the-badge&logo=gmail"/> </a>
+
+<a href="https://www.linkedin.com/in/mazharul-mujib/"> <img src="https://img.shields.io/badge/LinkedIn-Mazharul%20Mujib-blue?style=for-the-badge&logo=linkedin"/> </a>
+
+</p>
