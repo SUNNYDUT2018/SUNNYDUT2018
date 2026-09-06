@@ -59,40 +59,6 @@ Java
 C
 MATLAB
 
-Cloud Computing
-AI & Data Engineering
-Project Management
-Software Engineering
-IoT
-Digital Transformation
-IT Solutions
-Business & Technology
-
-
-## 3. Your GitHub should have these repositories
-
-Don't only make the profile README. **Create actual projects** so recruiters can see evidence of your skills.
-
-I recommend this structure:
-
-```text
-YOUR-GITHUB-USERNAME/
-│
-├── profile README
-│
-├── cloud-weather-forecasting
-│
-├── accounting-management-system
-│
-├── iot-security-system
-│
-├── data-mining-projects
-│
-├── python-data-analysis
-│
-├── cloud-computing-labs
-│
-└── project-management-portfolio
 
 <p align="left">
 
