@@ -67,3 +67,5 @@ MATLAB
 <a href="https://www.linkedin.com/in/mazharul-mujib/"> <img src="https://img.shields.io/badge/LinkedIn-Mazharul%20Mujib-blue?style=for-the-badge&logo=linkedin"/> </a>
 
 </p>
+<p align="center">
+</p>
