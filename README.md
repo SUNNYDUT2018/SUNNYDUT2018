@@ -59,13 +59,8 @@ Java
 C
 MATLAB
 
-
-<p align="left">
-
-<a href="mailto:mazharul.mujib@gmail.com"> <img src="https://img.shields.io/badge/Email-mazharul.mujib%40gmail.com-red?style=for-the-badge&logo=gmail"/> </a>
-
-<a href="https://www.linkedin.com/in/mazharul-mujib/"> <img src="https://img.shields.io/badge/LinkedIn-Mazharul%20Mujib-blue?style=for-the-badge&logo=linkedin"/> </a>
-
-</p>
-<p align="center">
-</p>
+### Tools & Platforms
+CloudSim
+Linux / Ubuntu
+Windows
+Git / GitHub
